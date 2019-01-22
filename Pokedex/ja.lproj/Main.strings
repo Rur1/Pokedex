@@ -1,0 +1,27 @@
+
+/* Class = "UIBarButtonItem"; title = "戻る"; ObjectID = "4cq-Ku-e7B"; */
+"4cq-Ku-e7B.title" = "戻る";
+
+/* Class = "UILabel"; text = "攻撃\r999"; ObjectID = "AaH-t4-cg3"; */
+"AaH-t4-cg3.text" = "攻撃\r999";
+
+/* Class = "UILabel"; text = "特防\r999"; ObjectID = "HAa-SE-GL7"; */
+"HAa-SE-GL7.text" = "特防\r999";
+
+/* Class = "UILabel"; text = "タイプ"; ObjectID = "IJx-BY-UP8"; */
+"IJx-BY-UP8.text" = "タイプ";
+
+/* Class = "UILabel"; text = "種族値"; ObjectID = "S8W-rv-ha8"; */
+"S8W-rv-ha8.text" = "種族値";
+
+/* Class = "UILabel"; text = "素早さ\r999"; ObjectID = "dZd-0U-Bdd"; */
+"dZd-0U-Bdd.text" = "素早さ\r999";
+
+/* Class = "UILabel"; text = "HP\r999"; ObjectID = "kRu-fS-jhp"; */
+"kRu-fS-jhp.text" = "HP\r999";
+
+/* Class = "UILabel"; text = "防御\r999"; ObjectID = "rja-22-tfR"; */
+"rja-22-tfR.text" = "防御\r999";
+
+/* Class = "UILabel"; text = "特攻\r999"; ObjectID = "y0e-2V-MfP"; */
+"y0e-2V-MfP.text" = "特攻\r999";
